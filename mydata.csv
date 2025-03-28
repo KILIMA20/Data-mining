@@ -1,0 +1,21 @@
+CustomerID,FirstName,LastName,AccountNumber,AccountType,Balance,CreditScore,LoanAmount,RiskLevel,EmploymentStatus,Branch
+1001,John,Doe,123456789,Savings,1500.75,720,5000,Low,Employed,New York
+1002,Jane,Smith,987654321,Checking,2450.50,650,12000,Medium,Self-Employed,Los Angeles
+1003,Robert,Brown,564738291,Savings,3000.00,580,25000,High,Unemployed,Chicago
+1004,Emily,Johnson,847362514,Checking,1250.25,690,8000,Medium,Employed,Houston
+1005,Michael,Williams,192837465,Savings,5000.00,750,2000,Low,Employed,San Francisco
+1006,Emma,White,738291564,Checking,900.00,600,15000,High,Self-Employed,Miami
+1007,James,Wilson,465738291,Savings,2200.60,710,7000,Low,Employed,Dallas
+1008,Sophia,Martinez,918273645,Checking,3100.90,670,10000,Medium,Employed,Atlanta
+1009,Daniel,Anderson,564738291,Savings,4100.20,590,22000,High,Unemployed,Seattle
+1010,Olivia,Thomas,837291564,Checking,1350.75,730,3000,Low,Employed,Boston
+1011,William,Harris,728194563,Savings,2800.50,660,15000,Medium,Employed,Denver
+1012,Ava,Garcia,918472635,Checking,1750.00,700,4000,Low,Employed,Philadelphia
+1013,Ethan,Clark,273645819,Savings,3200.75,620,18000,High,Self-Employed,Phoenix
+1014,Mia,Rodriguez,847291635,Checking,900.40,740,2500,Low,Employed,San Diego
+1015,Benjamin,Lewis,384756192,Savings,2600.90,580,22000,High,Unemployed,Las Vegas
+1016,Charlotte,Hall,927384615,Checking,1500.60,670,9000,Medium,Employed,San Antonio
+1017,Alexander,Young,192837465,Savings,4500.00,730,3500,Low,Employed,Columbus
+1018,Harper,Walker,384726915,Checking,2400.30,600,16000,High,Self-Employed,Charlotte
+1019,Henry,Allen,284756193,Savings,3800.10,710,6000,Low,Employed,Indianapolis
+1020,Amelia,King,647382915,Checking,1200.25,680,11000,Medium,Employed,Jacksonville
